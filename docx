@@ -1,0 +1,738 @@
+# WEBSITE DEVELOPMENT PROMPT — ICMITE 2026
+
+## Project Title
+
+**ICMITE 2026 – International Conference on Multidisciplinary Innovations in Technology and Engineering**
+
+Develop a professional, modern, responsive, and visually impressive international conference website for:
+
+**ICMITE 2026**
+**International Conference on Multidisciplinary Innovations in Technology and Engineering**
+
+**Organized by:**
+Department of Research & Development
+**CMS College of Engineering (Autonomous)**
+Namakkal, Tamil Nadu, India
+
+---
+
+# 1. DESIGN & VISUAL DIRECTION
+
+Create a premium international academic conference website rather than a generic college template.
+
+### Design Style
+
+* Modern academic + technology-focused design
+* Professional international conference appearance
+* Clean white/light background with deep navy/blue primary colors
+* Subtle gold accent for important highlights
+* Modern typography
+* Glassmorphism only where appropriate
+* Soft shadows
+* Rounded cards
+* Elegant section separators
+* Subtle technology-inspired background patterns
+* Minimal but attractive animations
+* High-quality responsive layout
+* Excellent readability
+
+### Technology Theme
+
+Use subtle visual elements representing:
+
+* Artificial Intelligence
+* Robotics
+* Semiconductor/VLSI
+* Renewable Energy
+* Biomedical Engineering
+* IoT
+* Cyber Security
+* Blockchain
+* Smart Systems
+* Industry 4.0
+
+Do **not** make the design overly futuristic or flashy. It should remain suitable for an academic international conference.
+
+---
+
+# 2. HEADER / NAVIGATION
+
+Create a sticky responsive navigation bar.
+
+### Logo Area
+
+Display:
+
+**ICMITE 2026**
+
+International Conference on
+Multidisciplinary Innovations in Technology and Engineering
+
+CMS College of Engineering (Autonomous)
+
+### Navigation
+
+* Home
+* About
+* Tracks
+* Committee
+* Registration
+* Important Dates
+* Venue & Contact
+
+Add a prominent:
+
+**REGISTER NOW**
+
+button.
+
+Registration button must open:
+
+https://forms.gle/F4Dc4LAuosFjZgmVA
+
+On mobile, use a hamburger menu.
+
+Add smooth scrolling between sections.
+
+---
+
+# 3. HERO SECTION
+
+Create a visually strong hero section.
+
+Display:
+
+### ICMITE 2026
+
+**International Conference on Multidisciplinary Innovations in Technology and Engineering**
+
+**30–31 December 2026**
+
+Organized by
+
+**Department of Research & Development**
+
+**CMS College of Engineering (Autonomous), Namakkal**
+
+### Buttons
+
+**Register Now**
+
+**Explore Conference**
+
+The Register Now button should open:
+
+https://forms.gle/F4Dc4LAuosFjZgmVA
+
+Create a subtle animated technology background using abstract lines, nodes, circuits, particles, or geometric elements.
+
+Do not depend on stock images.
+
+---
+
+# 4. CONFERENCE HIGHLIGHT CARDS
+
+Immediately below the hero section, create attractive information cards:
+
+### 30–31
+
+**December 2026**
+
+### 8
+
+**Conference Tracks**
+
+### International
+
+**Advisory Committee**
+
+### Multidisciplinary
+
+**Research & Innovation**
+
+Use appropriate icons.
+
+---
+
+# 5. ABOUT THE COLLEGE
+
+Section heading:
+
+## About the College
+
+Use the following content exactly:
+
+Established in 2007, **CMS College of Engineering (Autonomous)**, Namakkal, is an AICTE-approved institution affiliated with Anna University, Chennai. The college is committed to academic excellence, innovation, and multidisciplinary research through quality engineering education and industry collaboration. With a strong focus on emerging technologies, sustainable development, and research-driven learning, CMSCE provides a vibrant platform for faculty, researchers, and students to develop innovative solutions that address global engineering and societal challenges.
+
+Present this content in a professional two-column layout.
+
+One side should contain the content.
+
+The other side should contain an attractive abstract engineering/research visual.
+
+---
+
+# 6. ABOUT THE CONFERENCE
+
+Section heading:
+
+## About the Conference
+
+Use the following complete content:
+
+The **International Conference on Multidisciplinary Innovations in Technology and Engineering (ICMITE 2026)** aims to provide a premier international platform for researchers, academicians, scientists, industry professionals, and students to exchange knowledge, present innovative research, and foster multidisciplinary collaboration. The conference focuses on recent advancements and emerging innovations in Technology and Engineering, covering diverse areas such as Mechanical Engineering, Electronics and Communication Engineering, Electrical and Electronics Engineering, Computer Science and Engineering, Applied Sciences and Humanities, Biomedical Engineering, Cyber Security, Blockchain, Artificial Intelligence, Data Science, Internet of Things, Smart Systems, Industry 4.0, Renewable Energy, Sustainable Technologies, and Digital Transformation. ICMITE 2026 seeks to promote high-quality research, interdisciplinary innovation, and academia–industry collaboration, encouraging the development of advanced and sustainable technological solutions to address global challenges and contribute to a smarter, sustainable, and technologically advanced future.
+
+Add visually highlighted keywords such as:
+
+**Multidisciplinary Research**
+**Emerging Technologies**
+**Innovation**
+**Sustainability**
+**Academia–Industry Collaboration**
+
+---
+
+# 7. CONFERENCE TRACKS
+
+Section heading:
+
+## Conference Tracks & Focused Areas
+
+Create an attractive **8-card responsive grid**.
+
+Each card should have:
+
+* Track number
+* Track abbreviation
+* Track title
+* Four focused areas
+* Appropriate technology icon
+* Hover animation
+
+---
+
+## Track I – Mechanical Engineering (ME)
+
+* Advanced Manufacturing
+* Robotics & Automation
+* Thermal & Fluid Systems
+* Design & Simulation
+
+---
+
+## Track II – Electrical & Electronics Engineering (EEE)
+
+* Power Systems
+* Renewable Energy
+* Power Electronics
+* Smart Grid
+
+---
+
+## Track III – Electronics & Communication Engineering (ECE)
+
+* VLSI & Signal Processing
+* Embedded Systems
+* Wireless Communication
+* RF & Microwave
+
+---
+
+## Track IV – Computer Science & Engineering (CSE)
+
+* AI & Machine Learning
+* Data Structures & Algorithms
+* Software Systems
+* Computer Networks
+
+---
+
+## Track V – Applied Sciences & Humanities (ASH)
+
+* Chemistry & Physics
+* Mathematics & Statistics
+* English & Communication
+* Management & Economics
+
+---
+
+## Track VI – Biomedical Engineering (BIOMED)
+
+* Medical Instrumentation
+* Biosensors & Imaging
+* Wearable Devices
+* Health Informatics
+
+---
+
+## Track VII – Cyber Security, Blockchain & Digital Trust (CSBDT)
+
+* Cyber Security
+* Blockchain Technology
+* Cryptography
+* Privacy & Digital Forensics
+
+---
+
+## Track VIII – Interdisciplinary Innovations & Emerging Technologies (IIET)
+
+* IoT & Data Analytics
+* Cloud Computing
+* Smart Systems
+* Industry 4.0 & Sustainability
+
+---
+
+# 8. ORGANISING COMMITTEE
+
+Section heading:
+
+## Organising Committee
+
+Use professional expandable accordion sections or tabs.
+
+Do not display all committee members as one huge paragraph.
+
+Create separate categories:
+
+1. Chief Patrons
+2. Patrons
+3. Conveners
+4. Steering Committee
+5. National Advisory Committee
+6. International Advisory Committee
+
+---
+
+## CHIEF PATRONS
+
+**Dr. C. Muthusamy**
+Chairman, CMSCE
+
+**Mr. M. Sridhar, B.Tech., MBA**
+Vice-Chairman, CMSCE
+
+---
+
+## PATRON
+
+**Dr. A. Jegan, M.E., Ph.D**
+Principal, CMSCE
+
+---
+
+## CONVENERS
+
+**Dr. Kumarasamy A, M.Sc., Ph.D**
+Dean (R&D), CMSCE
+
+**Dr. S. Mohanraj, M.Sc., Ph.D**
+Dean (Student Affairs), CMSCE
+
+---
+
+## STEERING COMMITTEE
+
+* Dr. S. Sharavanan — Dean (Academics)
+* Dr. S. Kokila — ECE
+* Dr. P. Arunachalam — BME
+* Dr. G. Sangameshwari — Physics
+* Dr. V. Sathya — Chemistry
+* Prof. K. Mahesh Kumar — AI&DS
+* Prof. P. Nithya Jothi — BME
+* Prof. V. Priyanka — CSE
+* Prof. K. Periyasamy — ECE
+* Prof. K. Sathish — EEE
+* Prof. G. Gopal — MECH
+* Prof. P. Vasanthakumar — CSE (CS)
+* Prof. P. Lalitha — S&H
+* Prof. D. Ashok Kumar — MECH
+
+---
+
+# 9. NATIONAL ADVISORY COMMITTEE
+
+Display as a responsive professional list/grid.
+
+* Prof. A. Arokiarajan — IIT, Madras
+* Dr. Kuppusamy Thangaraju — NIT, Warangal
+* Dr. Vimal N E K — NIT, Trichy
+* Dr. P. Anandan — VIT, Vellore
+* Dr. Raguraman Munusamy — IIITDM, Kancheepuram
+* Dr. G. Kulanthaivel — NITTTR, Chennai
+* Dr. P. Thangadurai — Pondicherry University, Pondicherry
+* Dr. Sreejakumari SS — NIIST, Kerala
+* Dr. M. Arivanandhan — Anna University, Chennai
+* Dr. Ganesh Shanmugam — Scientist-G, CSIR-CLRI
+* Dr. M. Sathish — CSIR-CECRI, Karaikudi
+* Dr. Siva A — Madurai Kamaraj University, Madurai
+* Dr. R. Muralidharan — SIMATS, Chennai
+* Dr. R. Arulmozhi — SRMIST, Chennai
+* Dr. S. Chandrasekar — Shenzhen, Bengaluru
+* Dr. P. Arunkumar — DSK Innosciences Hosur
+* Dr. G. Kavithaa — Government College of Engineering, Salem
+* Dr. Saravanakumar Thangavel — Hitachi Energy, Chennai
+
+---
+
+# 10. INTERNATIONAL ADVISORY COMMITTEE
+
+Create a separate visually prominent international committee section.
+
+* Prof. Myeong-Hyeon Wang — Kangwon National University, Republic of Korea
+* Dr. Wolfgang Linert — Vienna University of Technology, Europe
+* Dr. Damian C. Onwudiwe — North-West University, South Africa
+* Dr Siva Marimuthu — University of Staffordshire, United Kingdom
+* Dr. Raja Sreedharan — Cardiff Metropolitan University, United Kingdom
+* Dr. Sirikanjana Thongmee — Kasetsart University, Thailand
+* Dr. Jiban Podder — Bangladesh University of Engineering and Technology, Bangladesh
+* Dr. Padmanaban Annamalai — Universidad Católica de la Santísima Concepción, Chile
+* Dr. Shanmugaraj Krishnamoorthy — Universidad de Tarapacá, Chile
+* Dr. V. Balasubramani — Zhejiang University of Technology, China
+* Dr. Arun Annamalai — United Arab Emirates University, United Arab Emirates
+
+If suitable, show country names with small country/region indicators, but do not introduce inaccurate flags.
+
+---
+
+# 11. REGISTRATION SECTION
+
+Section heading:
+
+## Registration & Payment Details
+
+Create a premium registration fee table.
+
+Columns:
+
+| Category | Early Bird (Up to 15 Nov 2026) | Regular (16 Nov onwards) |
+
+Rows:
+
+| Academics / Researchers | ₹1,500 | ₹2,000 |
+| Industry Professionals | ₹2,000 | ₹3,000 |
+| Research Scholars / PG Students | ₹1,000 | ₹1,500 |
+| UG Students | ₹750 | ₹1,000 |
+| Foreign Delegates (USD) | $30 | $50 |
+
+Make the table fully responsive on mobile.
+
+Highlight the Early Bird column visually.
+
+Add:
+
+**Early Bird Registration Ends: 15 Nov 2026**
+
+---
+
+# 12. IMPORTANT DATES
+
+Create a visually attractive timeline.
+
+## Important Dates
+
+### Paper Submission Opens
+
+**15 Sept 2026**
+
+### Early Bird Registration Ends
+
+**15 Nov 2026**
+
+### Acceptance Notification
+
+**01 Dec 2026**
+
+### Full Paper Submission
+
+**15 Dec 2026**
+
+### Conference Dates
+
+**30–31 Dec 2026**
+
+Use a horizontal timeline on desktop and vertical timeline on mobile.
+
+---
+
+# 13. BANK ACCOUNT DETAILS
+
+Create a secure-looking payment information card.
+
+## Bank Account Details
+
+**Account Name**
+The Principal, CMS College of Engineering
+
+**Account No.**
+33762201002709
+
+**IFSC Code**
+UBIN0933767
+
+**Bank Name**
+Union Bank
+
+**Branch**
+Eranapuram
+
+Add a professional notice:
+
+**Please verify the bank account details before making payment.**
+
+Do not modify any supplied bank details.
+
+---
+
+# 14. REGISTRATION CTA
+
+Create a strong full-width CTA section.
+
+Heading:
+
+## Ready to Share Your Research?
+
+Subheading:
+
+Join researchers, academicians, scientists, industry professionals and students at ICMITE 2026.
+
+Button:
+
+**REGISTER NOW**
+
+Link:
+
+https://forms.gle/F4Dc4LAuosFjZgmVA
+
+Open the registration form in a new browser tab.
+
+---
+
+# 15. VENUE & CONTACT
+
+Section heading:
+
+## Venue & Contact
+
+### Venue
+
+**CMS College of Engineering (Autonomous)**
+
+CMS Nagar, Eranapuram,
+Namakkal - 637 003,
+Tamil Nadu, India
+
+### For Queries
+
+**Email:**
+[kumarasamysanthosh@gmail.com](mailto:kumarasamysanthosh@gmail.com)
+
+Make email clickable.
+
+**Phone:**
++91 97504 65438
+
+Make phone number clickable.
+
+Add icons for:
+
+* Location
+* Email
+* Phone
+
+Include a simple location/map-style visual, but do not embed an inaccurate map location.
+
+---
+
+# 16. FOOTER
+
+Create a professional multi-column footer.
+
+### ICMITE 2026
+
+International Conference on Multidisciplinary Innovations in Technology and Engineering
+
+**Department of Research & Development**
+
+CMS College of Engineering (Autonomous), Namakkal
+
+### Quick Links
+
+* Home
+* About
+* Tracks
+* Committee
+* Registration
+* Important Dates
+* Contact
+
+### Registration
+
+**Register Now**
+
+Link:
+
+https://forms.gle/F4Dc4LAuosFjZgmVA
+
+Footer bottom:
+
+**© 2026 CMS College of Engineering (Autonomous), Namakkal. All Rights Reserved.**
+
+---
+
+# 17. RESPONSIVE DESIGN
+
+The website must work perfectly on:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+* Small mobile screens
+
+Use responsive breakpoints.
+
+Important:
+
+* No horizontal scrolling
+* Tables must remain readable
+* Committee lists must collapse appropriately
+* Navigation must become a mobile menu
+* Cards must resize correctly
+* Typography must scale responsively
+* Buttons must remain touch-friendly
+
+---
+
+# 18. INTERACTIVE FEATURES
+
+Implement:
+
+* Sticky navbar
+* Smooth scrolling
+* Mobile navigation menu
+* Active navigation indicator
+* Scroll animations
+* Fade/slide-in section animations
+* Track card hover effects
+* Committee accordion
+* Back-to-top button
+* Registration CTA
+* Clickable email
+* Clickable phone
+* External registration link
+* Accessible keyboard navigation
+
+Animations should be subtle and professional.
+
+---
+
+# 19. ACCESSIBILITY
+
+Follow good accessibility practices:
+
+* Semantic HTML
+* Proper heading hierarchy
+* ARIA labels where necessary
+* Keyboard navigation
+* Visible focus states
+* Adequate color contrast
+* Alt text for meaningful images
+* Avoid text embedded inside images
+* Buttons should have clear labels
+
+---
+
+# 20. SEO
+
+Add appropriate metadata.
+
+### Page Title
+
+**ICMITE 2026 | International Conference on Multidisciplinary Innovations in Technology and Engineering**
+
+### Meta Description
+
+**ICMITE 2026 is an international conference on multidisciplinary innovations in technology and engineering organized by the Department of Research & Development, CMS College of Engineering (Autonomous), Namakkal.**
+
+Include relevant keywords:
+
+* ICMITE 2026
+* International Conference
+* Multidisciplinary Innovations
+* Technology and Engineering
+* CMS College of Engineering
+* Namakkal Conference
+* Engineering Conference 2026
+* Research Conference
+* AI
+* IoT
+* Emerging Technologies
+
+---
+
+# 21. TECHNICAL REQUIREMENTS
+
+Build using:
+
+* React
+* TypeScript
+* Tailwind CSS
+* Modern component architecture
+* Lucide icons
+* Responsive CSS
+* Clean reusable components
+
+Recommended component structure:
+
+* Navbar
+* Hero
+* ConferenceHighlights
+* AboutCollege
+* AboutConference
+* Tracks
+* Committee
+* RegistrationFees
+* ImportantDates
+* BankDetails
+* RegistrationCTA
+* VenueContact
+* Footer
+* BackToTop
+
+Keep data separate from UI components wherever practical so that conference details can easily be updated later.
+
+---
+
+# 22. IMPORTANT CONTENT RULE
+
+The supplied names, dates, fees, bank information, institutions and contact information are official conference content.
+
+**Do not invent, remove, alter, or substitute any official information.**
+
+Preserve names and institutional affiliations exactly as provided.
+
+Only improve:
+
+* Layout
+* Typography
+* Spacing
+* Visual hierarchy
+* Responsive presentation
+* User experience
+
+---
+
+# 23. FINAL QUALITY REQUIREMENT
+
+The final website should look like a **real international academic conference website ready for public launch**, not an AI-generated template.
+
+Prioritize:
+
+**Professionalism + Academic Credibility + Technology + Readability + Responsiveness + Easy Registration**
+
+The homepage should immediately communicate:
+
+**ICMITE 2026 → International Conference → Multidisciplinary Technology & Engineering → CMS College of Engineering → 30–31 December 2026**
+
+Make the final design polished, consistent, modern, and suitable for sharing with researchers, academicians, industry professionals, students, and international delegates.
